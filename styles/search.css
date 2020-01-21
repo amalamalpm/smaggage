@@ -7,21 +7,20 @@
 
 .searchresult {
     float: left;
-    width: 15%;
+    width: 30%;
 }
 
 .map {
     float: right;
-    width: 85%;
+    width: 70%;
 }
 
 .result
 {
-    height: 54px;
-    background: #ffa37b;
+    height: 213px;
+    background: #89bfba ;
     margin: 15px;
     padding: 25px;
-    text-align: center;
     -webkit-transition: all 200ms ease;
     -moz-transition: all 200ms ease;
     -ms-transition: all 200ms ease;
@@ -34,4 +33,13 @@
 .result:hover
 {
     background: rgba(255,255,255,0.2);
+}
+
+.searchimg{
+    width:100px
+}
+
+.product-content{
+    color: black;
+
 }
