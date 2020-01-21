@@ -609,7 +609,7 @@ section
 }
 .home_title
 {
-	font-size: 110px;
+	font-size: 45px;
 	font-weight: 600;
 	color: #ffffff;
 	line-height: 1.2;
@@ -662,6 +662,7 @@ section
 }
 .booking_input_b
 {
+	 width: 250px;
 	-webkit-appearance: none;
 	-moz-appearance: none;
 	-ms-appearance: none;
